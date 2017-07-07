@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_4023e890da72e9cda93e92dffd7db933f6e920bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_460e6ac656a544fde43929f026b589d2828fb56b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_240aabb99e3da90642786e5af27e733c5f0eea80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_4f2c6f61a593607c633f9e73f83c860c1f98d7bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_ccd5681f9b4bf00737937d6e8a4d1a767cba7036.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ariannaharadon/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_4f838e124ad1113787662f90e76942e24819a393.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_c487ace0a6a1d8dd418a1438d010741b309213df.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">App Abilities</string>
+    <string name="title_activity_main">Prefs Demo</string>
+    <string name="title_activity_about">Prefs Activity</string>
+    <string name="title_activity_prime">Draw Activity</string>
+    
+    <string name="button1">Draw Activity</string>
+    <string name="button_map">Open Map</string>
+
+    <string name="hello_prime">Draw Activity is here!!!</string>
+    
+    <string name="menu_prefs">Preferences</string>
+    <string name="menu_prime">Draw</string>
+    
+    <string name="prefs_title">App Preferences</string>
+    <string name="prefs_title_color">Color</string>
+
+
+</resources>

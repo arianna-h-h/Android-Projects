@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+       <string-array name="prefs_color">
+        <item >RED</item>
+        <item >PURPLE</item>
+        <item >GREEN</item>
+    </string-array>
+        <string-array name="prefs_color_value">
+            <item >#ff0000</item>
+            <item >#800080</item>
+            <item >#228B22</item>
+    </string-array>
+
+</resources>

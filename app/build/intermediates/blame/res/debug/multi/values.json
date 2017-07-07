@@ -1,0 +1,628 @@
+[
+    {
+        "outputFile": "/Users/ariannaharadon/AndroidStudioProjects/PrefsDemoActivity/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/PrefsDemoActivity/app/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 7,
+                        "startOffset": 58,
+                        "endLine": 6,
+                        "endColumn": 19,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/PrefsDemoActivity/app/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 8,
+                        "startOffset": 203,
+                        "endLine": 11,
+                        "endColumn": 19,
+                        "endOffset": 364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 42,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/PrefsDemoActivity/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 42,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endColumn": 42,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/PrefsDemoActivity/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 42,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 50,
+                    "endOffset": 488
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/PrefsDemoActivity/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 50,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 493,
+                    "endColumn": 49,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/PrefsDemoActivity/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 306,
+                        "endColumn": 49,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 47,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/PrefsDemoActivity/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 47,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 64,
+                    "endOffset": 651
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/PrefsDemoActivity/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 408,
+                        "endColumn": 64,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 656,
+                    "endColumn": 50,
+                    "endOffset": 702
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/PrefsDemoActivity/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 50,
+                        "endOffset": 526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 707,
+                    "endColumn": 43,
+                    "endOffset": 746
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/PrefsDemoActivity/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 532,
+                        "endColumn": 43,
+                        "endOffset": 571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 751,
+                    "endColumn": 55,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/PrefsDemoActivity/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 583,
+                        "endColumn": 55,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 807,
+                    "endColumn": 51,
+                    "endOffset": 854
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/PrefsDemoActivity/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endColumn": 51,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 859,
+                    "endColumn": 63,
+                    "endOffset": 918
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/PrefsDemoActivity/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 63,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 923,
+                    "endColumn": 58,
+                    "endOffset": 977
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/PrefsDemoActivity/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 58,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 982,
+                    "endColumn": 62,
+                    "endOffset": 1040
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/PrefsDemoActivity/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 62,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1045,
+                    "endColumn": 57,
+                    "endOffset": 1098
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/PrefsDemoActivity/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 58,
+                        "endOffset": 73
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 7,
+                        "startOffset": 58,
+                        "endLine": 6,
+                        "endColumn": 19,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 8,
+                        "startOffset": 203,
+                        "endLine": 11,
+                        "endColumn": 19,
+                        "endOffset": 364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 42,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 42,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endColumn": 42,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 42,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 50,
+                    "endOffset": 488
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 50,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 493,
+                    "endColumn": 49,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 306,
+                        "endColumn": 49,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 47,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 47,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 64,
+                    "endOffset": 651
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 408,
+                        "endColumn": 64,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 656,
+                    "endColumn": 50,
+                    "endOffset": 702
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 480,
+                        "endColumn": 50,
+                        "endOffset": 526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 707,
+                    "endColumn": 43,
+                    "endOffset": 746
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 532,
+                        "endColumn": 43,
+                        "endOffset": 571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 751,
+                    "endColumn": 55,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 583,
+                        "endColumn": 55,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 807,
+                    "endColumn": 51,
+                    "endOffset": 854
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endColumn": 51,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 859,
+                    "endColumn": 63,
+                    "endOffset": 918
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 63,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 923,
+                    "endColumn": 58,
+                    "endOffset": 977
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 58,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 982,
+                    "endColumn": 62,
+                    "endOffset": 1040
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 62,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1045,
+                    "endColumn": 57,
+                    "endOffset": 1098
+                },
+                "from": {
+                    "file": "/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 58,
+                        "endOffset": 73
+                    }
+                }
+            }
+        ]
+    }
+]

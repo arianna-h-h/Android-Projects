@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefs_color">
+        <item>RED</item>
+        <item>PURPLE</item>
+        <item>GREEN</item>
+    </string-array>
+    <string-array name="prefs_color_value">
+            <item>#ff0000</item>
+            <item>#800080</item>
+            <item>#228B22</item>
+    </string-array>
+    <color name="about_bg">#ffeecc</color>
+    <color name="prime_bg">#e6f8f3</color>
+    <string name="app_name">App Abilities</string>
+    <string name="button1">Draw Activity</string>
+    <string name="button_map">Open Map</string>
+    <string name="hello_prime">Draw Activity is here!!!</string>
+    <string name="menu_prefs">Preferences</string>
+    <string name="menu_prime">Draw</string>
+    <string name="prefs_title">App Preferences</string>
+    <string name="prefs_title_color">Color</string>
+    <string name="title_activity_about">Prefs Activity</string>
+    <string name="title_activity_main">Prefs Demo</string>
+    <string name="title_activity_prime">Draw Activity</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

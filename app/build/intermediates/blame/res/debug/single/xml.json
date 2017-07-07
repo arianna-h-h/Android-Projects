@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ariannaharadon/AndroidStudioProjects/PrefsDemoActivity/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/ariannaharadon/AndroidStudioProjects/PrefsDemoActivity/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/ariannaharadon/AndroidStudioProjects/AppAbilities/app/src/main/res/xml/preferences.xml"
+    }
+]
